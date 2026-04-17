@@ -2,7 +2,7 @@
 
 **Author:** Arpita  Boben
 **Course:** Algorithm Design & Analysis (ADA)  
-**Repo:** `delivery-route-mini-project-Arpita`
+**Repo:** ada_capstoneproject
 
 ---
 
@@ -15,13 +15,11 @@ E-commerce platforms like Amazon and Flipkart face complex last-mile delivery ch
 ## Project Structure
 
 ```
-delivery-route-mini-project-Arpita/
+ada_capstoneproject/
 ├── delivery_route_optimization.ipynb   ← Main notebook (all tasks)
 ├── requirements.txt                    ← Python dependencies
 ├── README.md                           ← This file
-└── images/
-    ├── dashboard.png                   ← 4-plot analysis dashboard
-    └── mst.png                         ← MST visualization
+
 ```
 
 ---
