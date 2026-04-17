@@ -1,6 +1,6 @@
 # 🚚 Delivery Route Optimization — ADA Capstone Project
 
-**Author:** Arpita  
+**Author:** Arpita  Boben
 **Course:** Algorithm Design & Analysis (ADA)  
 **Repo:** `delivery-route-mini-project-Arpita`
 
